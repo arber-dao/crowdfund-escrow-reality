@@ -1,4 +1,10 @@
 {
+  "name": "crowdfund-escrow-reality",
+  "version": "1.0.0",
+  "description": "Arbor contracts that implement reality.io for dispute resolution",
+  "repository": "git@github.com:arbor-dao/crowdfund-escrow-reality.git",
+  "author": "ljrahn",
+  "license": "MIT",
   "devDependencies": {
     "@nomiclabs/hardhat-ethers": "npm:hardhat-deploy-ethers",
     "@nomiclabs/hardhat-etherscan": "^3.1.0",
